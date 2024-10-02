@@ -1,0 +1,12 @@
+/Users/mac/Developer/personal-projects/articles-projects/webpack-article-demo
+├── node_modules
+├── package.json
+├── pnpm-lock.yaml
+├── public
+|  └── index.html
+└── src
+   ├── index.js
+   └── styles.css
+
+directory: 3 file: 5 symboliclink: 3
+

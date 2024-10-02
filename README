@@ -1,0 +1,20 @@
+#### Outline
+
+- Configuration File
+- Entry
+- Output
+- Loaders
+- Plugins
+
+- Assets Management
+- Code Splitting and Lazy Loading
+- Hot Module Replacement(HRM)
+- Tree Shaking
+- Optimization: Minification, Caching
+- Error Handling
+- Transpilation and Polyfilling - Babel and Core-js
+- Output Management
+
+<!-- We also need `babel-loader`  which is used to transpile modern JavaScript (ES6+ and beyond) into a version of JavaScript that is compatible with older browsers. -->
+
+<!-- babel-loader @babel/core @babel/preset-env -->
