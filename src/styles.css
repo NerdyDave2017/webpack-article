@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Anton";
+  src: url("../public/assets/fonts/Anton-Regular.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: "Anton";
+  background-color: #f0f0f0;
+  color: #333;
+  background: url("../public/assets/images/background.svg");
+  background-size: contain;
+  background-position: center;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.container img {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+}
