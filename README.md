@@ -2,10 +2,6 @@
 
 Welcome to the **Unpacking Webpack for Frontend Developers** GitHub repository! This repository contains the source code, examples, and configurations that accompany the two-part article series, designed to provide a comprehensive introduction and advanced understanding of Webpack for frontend developers. Whether you're new to Webpack or looking to fine-tune your configuration skills, these articles guide you through the essentials and then delve into optimization techniques, performance enhancements, and best practices.
 
-## Repository Overview
-
-This repository is structured to support both **Part 1** and **Part 2** of the article series, allowing you to follow along with code examples for each topic. Each section builds on the previous one, ensuring that you can track and test each concept step-by-step.
-
 ### Part 1: Getting Started with Webpack
 
 In **Part 1**, we lay the foundation by covering core Webpack concepts essential for any frontend developer:
@@ -17,7 +13,7 @@ In **Part 1**, we lay the foundation by covering core Webpack concepts essential
 
 These core features establish a solid base for organizing, bundling, and managing your application’s assets.
 
-🔗 [Read Part 1 here](#)
+🔗 [Read Part 1 here](https://mideishere.hashnode.dev/unpacking-webpack-for-frontend-developers-part-1)
 
 ### Part 2: Advanced Webpack Features and Optimization
 
@@ -32,13 +28,11 @@ In **Part 2**, we build on the basics to explore advanced Webpack features that 
 
 Each technique is covered in detail, with hands-on examples and explanations on how to implement and configure them within Webpack.
 
-🔗 [Read Part 2 here](#)
+🔗 [Read Part 2 here](https://mideishere.hashnode.dev/unpacking-webpack-for-frontend-developers-part-2-advanced-webpack-features)
 
 ---
 
 ## Repository Structure
-
-The repository is divided into two main folders for each part:
 
 ```bash
 webpack-article-demo
@@ -75,7 +69,7 @@ To try out the examples in each part, follow these steps:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/webpack-article-demo.git
+git clone https://github.com/NerdyDave2017/webpack-article.git
 cd webpack-article-demo
 ```
 
